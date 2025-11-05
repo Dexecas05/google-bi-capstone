@@ -1,0 +1,4 @@
+data/*.csv
+data/processed/cyclistic-fact-processed.csv
+data/raw/bq-results-cyclistic-fact-seasonal.csv
+data/raw/bq-results-cyclistic-fact.csv

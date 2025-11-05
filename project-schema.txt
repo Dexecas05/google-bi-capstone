@@ -1,0 +1,19 @@
+google-bi-capstone-v1/
+│
+├── notebooks/                # Jupyter Notebooks con el análisis paso a paso
+│   └── exploratory-analysis.ipynb
+│
+├── data/                     # Datos utilizados en el proyecto
+│   ├── raw/                  # Datos originales (CSV, sin modificar)
+│   ├── processed/            # Datos limpios/listos para análisis
+│   └── sql-queries/          # Consultas SQL que generaron los datasets
+│
+├── outputs/                  # Resultados generados
+│   ├── visualizations/       # Gráficos exportados desde notebooks
+│   ├── reports/              # Resumen ejecutivo en PDF/Markdown
+│   └── dashboards/           # Capturas o enlaces a dashboards
+│
+├── project-planning-docs/    # Documentación de planificación del proyecto
+│
+├── README.md                 # Descripción general del proyecto
+└── requirements.txt          # Dependencias de Python (pandas, seaborn, etc.)
