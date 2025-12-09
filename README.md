@@ -33,6 +33,12 @@ El objetivo es comprender patrones de demanda, estacionalidad, impacto del clima
 
 El dashboard ejecutivo con visualizaciones dinámicas está disponible en **[Tableau Public](https://public.tableau.com/views/AnlisisBICyclisticinfraestructuraytendenciasenlademanda/Mapadeestacionesmsdemandadas?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**.  
 
+Previsualizaciones:
+
+![Dashboard de estaciones más populares](https://github.com/Dexecas05/google-bi-capstone/blob/main/outputs/dashboards/Mapa%20de%20estaciones%20m%C3%A1s%20demandadas.png)
+
+![Dashboard de estacionalidad](https://github.com/Dexecas05/google-bi-capstone/blob/main/outputs/dashboards/Estacionalidad%20medida%20por%20origen.png)
+
 ---
 
 ## ⚙️ Reproducibilidad
